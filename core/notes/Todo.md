@@ -1,0 +1,18 @@
+- [x] Mobs jumps back when hit from projectile
+- [x] Lightning
+- [ ] Sounds and music
+    - [x] Jetpack
+    - [ ] General music
+    - [ ] A sound that signalizes that you're empty of juice
+- [x] GUI
+- [x] Ending title
+- [x] Entity animations
+- [x] Few pixels
+- [x] Health and power sliders.
+- [x] Mouse pointer
+- [x] Find your way to the power bars and recharge your tele porter so you can go to the surface. Beneath the surface find the teleporter
+- [ ] Test with 1000 mobs in html
+- [ ] Build map!
+    - [ ] Multiple spawn locations
+        - [ ] Random spawn
+    - [ ] Multiple power blocks
