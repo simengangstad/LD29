@@ -29,7 +29,7 @@ public class Level
 
     protected static final float GRAVITY = 50.0f;
 
-    public enum BlockType
+    public static enum BlockType
     {
         AIR_ONE('1'), AIR_TWO('2'), AIR_THREE('3'), DIRT_TYPE_ONE('x'), DIRT_TYPE_TWO('y'), DIRT_TYPE_THREE('z'), GRAVEL_TYPE_ONE('c'), GRAVEL_TYPE_TWO('v'), GRAVEL_TYPE_THREE('b'), SPAWN('#'), MOB('m'), POWER('p');
 
