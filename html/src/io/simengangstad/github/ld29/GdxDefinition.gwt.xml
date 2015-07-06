@@ -6,7 +6,7 @@
 	<inherits name='Box2DLights' />
 
 	<inherits name='LD29' />
-	<entry-point class='com.pixl.ld29.client.HtmlLauncher' />
+	<entry-point class='io.simengangstad.github.ld29.client.HtmlLauncher' />
 	
 	<set-configuration-property name="gdx.assetpath" value="../core/assets" />
 </module>

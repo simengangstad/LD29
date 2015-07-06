@@ -1,4 +1,4 @@
-package com.pixl.ld29.game;
+package io.simengangstad.github.ld29.game;
 
 import box2dLight.PointLight;
 import box2dLight.RayHandler;

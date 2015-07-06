@@ -6,7 +6,7 @@
 	<inherits name='Box2DLights' />
 
     <inherits name='LD29' />
-	<entry-point class='com.pixl.ld29.client.HtmlLauncher' />
+	<entry-point class='io.simengangstad.github.ld29.client.HtmlLauncher' />
 	
 	<add-linker name="xsiframe"/>
 	<set-configuration-property name='xsiframe.failIfScriptTag' value='FALSE'/>

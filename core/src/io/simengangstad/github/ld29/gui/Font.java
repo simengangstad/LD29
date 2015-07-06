@@ -1,4 +1,4 @@
-package com.pixl.ld29.gui;
+package io.simengangstad.github.ld29.gui;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;

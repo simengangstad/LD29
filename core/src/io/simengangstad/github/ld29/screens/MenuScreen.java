@@ -1,10 +1,10 @@
-package com.pixl.ld29.screens;
+package io.simengangstad.github.ld29.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.pixl.ld29.gui.Font;
+import io.simengangstad.github.ld29.gui.Font;
 
 /**
  * @author simengangstad

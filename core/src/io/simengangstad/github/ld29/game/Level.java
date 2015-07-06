@@ -1,4 +1,4 @@
-package com.pixl.ld29.game;
+package io.simengangstad.github.ld29.game;
 
 import java.util.Random;
 

@@ -1,18 +1,14 @@
-package com.pixl.ld29.screens;
+package io.simengangstad.github.ld29.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Pixmap;
-import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Matrix4;
-import com.pixl.ld29.game.Level;
-import com.pixl.ld29.gui.Font;
+import io.simengangstad.github.ld29.game.Level;
+import io.simengangstad.github.ld29.gui.Font;
 
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.IOException;
 import java.util.Random;
 
 /**

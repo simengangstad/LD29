@@ -1,8 +1,8 @@
-package com.pixl.ld29.desktop;
+package io.simengangstad.github.ld29.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.pixl.ld29.screens.LD29;
+import io.simengangstad.github.ld29.screens.LD29;
 
 public class DesktopLauncher
 {

@@ -1,9 +1,9 @@
-package com.pixl.ld29.client;
+package io.simengangstad.github.ld29.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.pixl.ld29.screens.LD29;
+import io.simengangstad.github.ld29.screens.LD29;
 
 public class HtmlLauncher extends GwtApplication {
 

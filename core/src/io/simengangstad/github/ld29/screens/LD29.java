@@ -1,4 +1,4 @@
-package com.pixl.ld29.screens;
+package io.simengangstad.github.ld29.screens;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
